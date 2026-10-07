@@ -13,8 +13,8 @@ estudos e atividades práticas em tecnologia. Em breve lançarei mais conteúdos
 - AWS
 - Cloud Computing
 - Linux
-- Docker
-- Git/GitHub
+- Zabbix
+- Grafana
 
 ## Objetivo
 
