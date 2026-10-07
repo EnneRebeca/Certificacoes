@@ -1,7 +1,6 @@
 # Certificações e Estudos
 
-Repositório destinado ao registro das minhas certificações,
-estudos e atividades práticas em tecnologia. Em breve lançarei mais conteúdos
+Repositório destinado ao registro das minhas certificações, estudos e atividades práticas em tecnologia. Em breve lançarei mais conteúdos
 
 ## AWS
 
@@ -13,10 +12,10 @@ estudos e atividades práticas em tecnologia. Em breve lançarei mais conteúdos
 - AWS
 - Cloud Computing
 - Linux
-- Docker
-- Git/GitHub
+- Grafana
+- Python
+- Zabbix
 
 ## Objetivo
 
-Este repositório reúne evidências do meu desenvolvimento
-técnico e aprendizado contínuo em infraestrutura, cloud e tecnologia.
+Este repositório reúne evidências do meu desenvolvimento técnico e aprendizado contínuo em infraestrutura, cloud e tecnologia.
